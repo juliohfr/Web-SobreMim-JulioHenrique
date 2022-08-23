@@ -1,0 +1,25 @@
+@font-face{
+    font-family: AlegreyaSans;
+    src: url(AlegreyaSans-Regular.ttf);
+}
+
+*{
+    margin:20px; 
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+
+body{
+    background-color: #0075c9;
+}
+
+p{
+    font-family: AlegreyaSans;
+    color: white;
+    text-align: justify;
+}
+
+#conteudo{
+    width: 50%;
+}
